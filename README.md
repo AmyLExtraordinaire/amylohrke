@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-12120273183.vercel.app/api/spotify-playing" alt="12120273183 Spotify Playing" width="350" />](https://open.spotify.com/user/12120273183)
+[<img src="https://now-playing-jakelohrke.vercel.app/api/spotify-playing" alt="12120273183 Spotify Playing" width="350" />](https://open.spotify.com/user/12120273183)
 
 ### Connect with me:
 

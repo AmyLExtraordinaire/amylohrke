@@ -45,7 +45,7 @@
 
 </details>
 
-[website]: https://jakelohrke.me
+[website]: https://jacoblohrke.me
 [twitter]: https://twitter.com/IamUdaman
 [youtube]: https://www.youtube.com/channel/UCgdzblI-uTn6S26_YYU_G7w
 [instagram]: https://instagram.com/jake.lohrke

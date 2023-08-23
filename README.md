@@ -1,12 +1,4 @@
-### Hi there, I'm Jacob Lohrke, aka Jake 👋
-
-## Computer Science Student at the Univerisity of Michigan!!
-
-- 🔭 Finished my first independant project (queens), working on a couple more, but focusing on school for now!
-- 🌱 Currently learning UI design, Web Systems, and Programming Language Design
-- 📔 Looking for an entry level software engineering position start as early as May 2021
-- 🥅 2020 Goals: Do more side projects
-- ⚡ Fun fact: I love playing strategy games, excited to go hiking again
+### Hi there, I'm Amy 👋
 
 ### Connect with me:
 
@@ -45,8 +37,6 @@
   <img align="left" alt="jakelohrke's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jakelohrke&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://jacoblohrke.me
 [twitter]: https://twitter.com/IamUdaman
 [youtube]: https://www.youtube.com/channel/UCgdzblI-uTn6S26_YYU_G7w
 [instagram]: https://instagram.com/jake.lohrke

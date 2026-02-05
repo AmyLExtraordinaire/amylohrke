@@ -27,10 +27,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jakelohrke's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jakelohrke&show_icons=true&hide_border=true" />
+  <img align="left" alt="amy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amylextraordinaire&show_icons=true&hide_border=true" />
 
 </details>
-[twitter]: https://twitter.com/IamUdaman
 [youtube]: https://www.youtube.com/channel/UCgdzblI-uTn6S26_YYU_G7w
-[instagram]: https://instagram.com/jake.lohrke
-[linkedin]: https://linkedin.com/in/jacob-lohrke/
+[instagram]: https://www.instagram.com/amylextraordinaire/
+[linkedin]: https://www.linkedin.com/in/amy-lohrke
